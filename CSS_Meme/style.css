@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+    font-family: 'Caveat', cursive;;
+}
+div{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+#a{
+    width: 100%;
+    border: 5px solid white;
+}
